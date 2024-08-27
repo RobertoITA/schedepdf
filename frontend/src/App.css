@@ -1,0 +1,44 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+th {
+  background-color: #333;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.file-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.file-link:hover {
+  text-decoration: underline;
+}
+
+.action-link {
+  color: #0099ff;
+  text-decoration: none;
+}
+
+.action-link:hover {
+  text-decoration: underline;
+}
