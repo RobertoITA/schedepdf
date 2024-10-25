@@ -10,3 +10,4 @@ forlì,1qaz2wsx,pro_ita/index.html
 giulianova,1qaz2wsx,pro_ita/index.html
 italmont,1qaz2wsx,pro_ita/index.html
 ancarano,1qaz2wsx,pro_ita/index.html
+stefano,Ilaria1!,pro_ita/index.html
